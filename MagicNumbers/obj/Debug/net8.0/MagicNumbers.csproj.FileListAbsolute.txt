@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\bin\Debug\net8.0\MagicNumbers.exe
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\bin\Debug\net8.0\MagicNumbers.deps.json
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\bin\Debug\net8.0\MagicNumbers.runtimeconfig.json
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\bin\Debug\net8.0\MagicNumbers.dll
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\bin\Debug\net8.0\MagicNumbers.pdb
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.dll
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\refint\MagicNumbers.dll
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.pdb
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\MagicNumbers.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\MagicNumbers\MagicNumbers\obj\Debug\net8.0\ref\MagicNumbers.dll
